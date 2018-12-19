@@ -2,7 +2,7 @@
 
 Introduction
 
-Train and evaluate a statistical text classification system。By analysing errors produced by a statistical text classification system, reason about how feature extraction approaches may enhance the representation of language for text classification, and validate this through empirical experimentation.
+Train and evaluate a statistical text classification system. By analysing errors produced by a statistical text classification system, reason about how feature extraction approaches may enhance the representation of language for text classification, and validate this through empirical experimentation.
 
 
 Getting Started
